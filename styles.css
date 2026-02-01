@@ -1,1 +1,26 @@
 /*  your css code here. If applicable */
+/* Main Container */
+.main-container {
+  background-color: #f5f5f5;
+  padding: 20px;
+}
+
+/* Testimonial Box */
+.testimonial {
+  background-color: #ffffff;
+  padding: 15px;
+  border: 1px solid #ddd;
+  margin-bottom: 15px;
+}
+
+/* Text */
+.text {
+  margin: 0;
+}
+
+/* Author */
+.author {
+  text-align: right;
+  font-style: italic;
+  margin-top: 10px;
+}
